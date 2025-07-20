@@ -1,0 +1,32 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# macOS & Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Streamlit specific
+.streamlit/
+
+# VSCode
+.vscode/
+
+# Logs and output
+log.txt
+embeddings.txt
+generated_app.html
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
